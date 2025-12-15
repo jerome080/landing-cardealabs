@@ -83,7 +83,7 @@ export default function AdminDashboard() {
         <div className="container mx-auto px-6 py-6">
           <div className="flex justify-between items-center">
             <Link href="/">
-              <img src="/images/cardea.png" alt="Cardea Labs" className="h-20" />
+              <img src="/images/cardea.png" alt="Cardea Labs" className="h-10" />
             </Link>
             <Button
               onClick={handleLogout}

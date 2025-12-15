@@ -9,7 +9,7 @@ export default function Home() {
       <header className="border-b border-gray-100">
         <div className="container mx-auto px-6 py-6 md:py-8">
           <div className="flex justify-between items-center">
-            <img src="/images/cardea.png" alt="Cardea Labs" className="h-32 md:h-40" />
+            <img src="/images/cardea.png" alt="Cardea Labs" className="h-10 md:h-14" />
             <nav>
               <Link
                 href="/blog"

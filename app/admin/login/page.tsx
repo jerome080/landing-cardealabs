@@ -43,7 +43,7 @@ export default function AdminLoginPage() {
       <div className="w-full max-w-md">
         <div className="text-center mb-12">
           <Link href="/">
-            <img src="/images/cardea.png" alt="Cardea Labs" className="h-24 mx-auto mb-8" />
+            <img src="/images/cardea.png" alt="Cardea Labs" className="h-10 md:h-14 mx-auto mb-8" />
           </Link>
           <h1 className="text-3xl font-light text-gray-900 mb-2">Admin Login</h1>
           <p className="text-gray-600 font-light">Melde dich an, um Blog-Beiträge zu verwalten</p>

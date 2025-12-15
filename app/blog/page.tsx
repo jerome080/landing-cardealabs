@@ -44,7 +44,7 @@ export default function BlogPage() {
         <div className="container mx-auto px-6 py-6 md:py-8">
           <div className="flex justify-between items-center">
             <Link href="/">
-              <img src="/images/cardea.png" alt="Cardea Labs" className="h-32 md:h-40" />
+              <img src="/images/cardea.png" alt="Cardea Labs" className="h-10 md:h-14" />
             </Link>
             <nav>
               <Link

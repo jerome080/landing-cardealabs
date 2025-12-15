@@ -14,7 +14,7 @@ export default function DatenschutzPage() {
               alt="Cardea Labs"
               width={280}
               height={80}
-              className="h-32 w-auto md:h-36"
+              className="h-10 w-auto md:h-14"
               priority
             />
           </Link>

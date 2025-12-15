@@ -47,7 +47,7 @@ export default function NewPostPage() {
       <header className="border-b border-gray-100">
         <div className="container mx-auto px-6 py-6">
           <Link href="/admin/dashboard">
-            <img src="/images/cardea.png" alt="Cardea Labs" className="h-20" />
+            <img src="/images/cardea.png" alt="Cardea Labs" className="h-10" />
           </Link>
         </div>
       </header>
